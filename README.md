@@ -8,3 +8,9 @@ all browser support css1
 most browser support css2
 
 most browser support less css3
+
+
+inside the paragraph you can add the txt line
+
+
+<span style="font-width=bold"></span>
