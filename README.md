@@ -13,4 +13,7 @@ most browser support less css3
 inside the paragraph you can add the txt line
 
 
-<span style="font-width=bold"></span>
+
+
+
+<span style="font-weight:900"> Quisque </span>
