@@ -17,3 +17,8 @@ inside the paragraph you can add the txt line
 
 
 <span style="font-weight:900"> Quisque </span>
+
+------------------------------------:easy find html and margin: --------------------------
+
+html { background-color: black; }
+body { margin:50px; background-color: white; }
